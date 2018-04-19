@@ -5,6 +5,6 @@ print "Rolling the dices..."
 print "The values are...."
 print random.randint(min, max)
 print random.randint(min, max)
-print hello
+print "hello"
 
     
