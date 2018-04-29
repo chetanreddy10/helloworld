@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-Fahrenheit = int(raw_input("Enter a temperature in Fahrenheit: "))
+Fahrenheit = int(input("Enter a temperature in Fahrenheit: "))
 
 Celsius = (Fahrenheit - 32) * 5.0/9.0
 
